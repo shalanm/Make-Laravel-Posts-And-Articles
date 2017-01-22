@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/network/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/network/resources/views/articles/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/network/resources/views/user/profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/network/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/network/app/Http/Controllers/ProfileController.php</file>
+            <file>file:/C:/xampp/htdocs/network/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/xampp/htdocs/network/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/network/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/network/app/Http/Controllers/ArticlesController.php</file>
+            <file>file:/C:/xampp/htdocs/network/database/factories/ModelFactory.php</file>
+            <file>file:/C:/xampp/htdocs/network/resources/views/articles/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/network/database/migrations/2017_01_21_131051_create_posts_table.php</file>
+            <file>file:/C:/xampp/htdocs/network/app/Article.php</file>
+        </group>
+    </open-files>
+</project-private>
